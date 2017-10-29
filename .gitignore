@@ -1,5 +1,8 @@
 *.pyc
 __pycache__
 anet
+anet/stok
+/anet
+/anet/stok
 db.sqlite3
 .DS_Store
